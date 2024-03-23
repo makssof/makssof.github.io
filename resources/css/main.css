@@ -89,7 +89,6 @@ ul {
 }
 
 .header-menu-list-item {
-    font-weight: 400;
     font-size: 28px;
     line-height: 33px;
     border-top: var(--border-size) solid transparent;
